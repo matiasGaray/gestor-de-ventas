@@ -1,6 +1,6 @@
 import os
 import time
-#Probando git
+
 encendido = True
 
 print("Bienvenido a hamburguesas IT")
