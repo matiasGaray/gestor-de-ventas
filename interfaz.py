@@ -2,7 +2,7 @@ import os
 import time
 
 encendido = True
-# Como que ya no hay mensaje
+# Y no flaco, ya no hay mensaje
 print("Bienvenido a hamburguesas IT")
 #Valido que la variable solo tenga letras
 while True:
