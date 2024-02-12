@@ -27,7 +27,7 @@ while encendido:
   print("1 – Ingreso nuevo pedido")
   print("2 – Cambio de turno")
   print("3 – Apagar sistema")
-
+#Otro mensaje
   #Valido datos alfanumericos
   while True:
     try:
